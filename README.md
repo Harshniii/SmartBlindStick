@@ -18,14 +18,13 @@ The Smart Blind Stick is an innovative assistive device designed to help visuall
 ---
 
 # 🔧 Project Components  
-[View List of Components](ComponentsOfSmartBlindStick.pdf)  
+📄 [View List of Components](ComponentsOfSmartBlindStick.pdf)  
 
 ---
 
 # 📁 Project Files  
 📄 Block Diagram – [View PDF](BlockDiagramofSmartBlindStick.pdf)  
 📄 Code Implementation – [View C Code](SmartBlindStick.c)  
-📄 Project Overview Image – ![Project Overview](ProjectOverview.jpg)  
 
 ---
 
