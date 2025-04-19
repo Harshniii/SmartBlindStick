@@ -1,4 +1,4 @@
-### 📌 Smart Blind Stick 
+## 📌 Smart Blind Stick 
 The Smart Blind Stick is an innovative assistive device designed to help visually impaired individuals navigate safely. It uses ultrasonic sensors to detect obstacles and beep sound alerts to warn users in real time.  
 
 ---
