@@ -3,12 +3,12 @@ The Smart Blind Stick is an innovative assistive device designed to help visuall
 
 ---
 
-### 📂 Project Overview 
+###  Project Overview 
 [Project Overview](ProjectOverview.jpg)  
 
 ---
 
-### 🎯 Features 
+###  Features 
 - Real-time obstacle detection using ultrasonic sensors  
 - Beep sound alerts for immediate feedback  
 - Compact & lightweight design for easy portability  
@@ -17,18 +17,18 @@ The Smart Blind Stick is an innovative assistive device designed to help visuall
 
 ---
 
-### 🔧 Project Components  
+###  Project Components  
 📄 [View List of Components](ComponentsOfSmartBlindStick.pdf)  
 
 ---
 
-### 📁 Project Files  
+###  Project Files  
 📄 Block Diagram – [View PDF](BlockDiagramofSmartBlindStick.pdf)  
 📄 Code Implementation – [View C Code](SmartBlindStick.c)  
 
 ---
 
-### 🚀 Installation & Usage
+###  Installation & Usage
 #### Step 1: Clone the Repository 
 Run the following command in your terminal:  
 ```bash
