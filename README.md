@@ -9,11 +9,11 @@ The Smart Blind Stick is an innovative assistive device designed to help visuall
 ---
 
 ## 🎯 Features 
-✔ Real-time obstacle detection using ultrasonic sensors  
-✔ Beep sound alerts for immediate feedback  
-✔ Compact & lightweight design for easy portability  
-✔ Energy-efficient for long-lasting use  
-✔ Customizable with additional sensors or functionalities  
+- Real-time obstacle detection using ultrasonic sensors  
+- Beep sound alerts for immediate feedback  
+- Compact & lightweight design for easy portability  
+- Energy-efficient for long-lasting use  
+- Customizable with additional sensors or functionalities  
 
 ---
 
@@ -48,23 +48,7 @@ git clone https://github.com/Harshniii/SmartBlindStick.git
 
 ---
 
-## 🤝 Contributing 
-We welcome contributions to improve this project! You can:  
-📌 Report bugs
-💡 Suggest new features 
-📖 Improve documentation 
-⚡ Optimize code efficiency  
 
-Simply fork the repository and submit a pull request!  
-
----
-
-## ❓ Have Questions 
-If you have any questions or issues, feel free to:  
-📩 Open an issue on GitHub  
-📬 Reach out for collaboration
-
----
 
 
 
